@@ -1,2 +1,4 @@
 # BMI-Calculator
-A body mass index calculator
+A very simple body mass index calculator using Tkinter.
+
+
